@@ -27,6 +27,15 @@ Em paralelo, dedico meu tempo aos estudos em desenvolvimento de software, com fo
 
 ### 📊 Minhas Estatísticas
 
-<img src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-
-<img src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+      </td>
+      <td align="center" valign="top">
+        <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
+</div>
