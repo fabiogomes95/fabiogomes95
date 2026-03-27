@@ -2,7 +2,9 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Supervisor de TI**
 
-Sou um profissional de tecnologia apaixonado por resolver problemas e otimizar processos. Atualmente, atuo como Supervisor de TI na área pública e dedico meu tempo aos estudos em desenvolvimento de software, com foco especial em automações e sistemas com Python e ambiente Linux.
+Sou um profissional de tecnologia apaixonado por resolver problemas e criar soluções. Atualmente, atuo como Supervisor de TI no Hospital Municipal da minha cidade, onde trabalho ativamente na otimização de processos do BPA-SUS utilizando scripts em Python. 
+
+Em paralelo, dedico meu tempo aos estudos em desenvolvimento de software, com foco especial em automações, criação de sistemas e ambiente Linux.
 
 ### 👨‍💻 Sobre mim
 
