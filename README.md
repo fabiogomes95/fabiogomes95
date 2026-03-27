@@ -27,7 +27,6 @@ Em paralelo, dedico meu tempo aos estudos em desenvolvimento de software, com fo
 
 ### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiogomes95&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Fábio Gomes" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogomes95&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+<img src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+
+<img src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
